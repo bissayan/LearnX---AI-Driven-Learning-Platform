@@ -19,7 +19,7 @@ def analyze_sentiment(feedback_list):
 
     client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"
+    api_key="sk-or-v1-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     )
 
 
