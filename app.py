@@ -38,6 +38,6 @@ from backend import celery_schedule
 
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-or-v1-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 if (__name__ == '__main__'):
     app.run()
