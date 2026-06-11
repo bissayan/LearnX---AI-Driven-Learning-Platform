@@ -16,10 +16,10 @@ Demo Project Working Video Link: https://drive.google.com/drive/folders/1qmfaodj
 
 ## 📄 Project Documentation
 
-<div align="center">
+<details>
+<summary>📖 Click to View Full Documentation (22 Pages)</summary>
 
-<table>
-<tr>
+<br>
 <td><img src="./docs/LearnX_Detailed_Overview-images-0.jpg" width="350"></td>
 <td><img src="./docs/LearnX_Detailed_Overview-images-1.jpg" width="350"></td>
 <td><img src="./docs/LearnX_Detailed_Overview-images-2.jpg" width="350"></td>
@@ -43,9 +43,9 @@ Demo Project Working Video Link: https://drive.google.com/drive/folders/1qmfaodj
 <td><img src="./docs/LearnX_Detailed_Overview-images-20.jpg" width="350"></td>
 <td><img src="./docs/LearnX_Detailed_Overview-images-21.jpg" width="350"></td>
 </tr>
-</table>
+</details>
 
-</div>
+
 
 *➡️ Scroll horizontally to browse the documentation pages.*
 
