@@ -11,7 +11,7 @@ Demo Project Working Video Link: https://drive.google.com/drive/folders/1qmfaodj
 
 
 
- 📄 Complete Project Documentation
+ Complete Project Documentation
 
 <div align="center">
 <div style="height:700px; overflow-y:auto; border:1px solid #d0d7de; border-radius:8px; padding:10px;">
