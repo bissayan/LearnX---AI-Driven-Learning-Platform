@@ -13,60 +13,35 @@ Demo Project Working Video Link: https://drive.google.com/drive/folders/1qmfaodj
 
 
 
-## 📄 Complete Project Documentation
+ 📄 Complete Project Documentation
 
-<details>
-<summary><strong>📖 Click to Expand Full Documentation (22 Pages)</strong></summary>
-
-<br>
+<div align="center">
+<div style="height:700px; overflow-y:auto; border:1px solid #d0d7de; border-radius:8px; padding:10px;">
 
 <img src="./docs/LearnX_Detailed_Overview-images-0.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-1.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-2.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-3.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-4.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-5.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-6.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-7.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-8.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-9.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-10.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-11.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-12.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-13.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-14.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-15.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-16.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-17.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-18.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-19.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-20.jpg" width="100%">
-
 <img src="./docs/LearnX_Detailed_Overview-images-21.jpg" width="100%">
-
-</details>
-
-
+</div>
+</div>
 
 
 
