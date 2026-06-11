@@ -1,5 +1,3 @@
-# SE Project Directory Structure
-
 ## Project Overview
 A full-stack educational platform using Vue.js (frontend) and Flask (backend), integrating an AI chatbot TutorX which ensures that every student has access to a personalized tutor, available 24/7, improving doubt resolution, engagement, and learning outcomes.
 
