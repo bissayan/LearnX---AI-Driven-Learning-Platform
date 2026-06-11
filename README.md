@@ -12,10 +12,40 @@ Tech Stack: Flask, SQLite, jwt, Vue.js (CDN),  LanceDB, Sentence Transformers, p
 Demo Project Working Video Link: https://drive.google.com/drive/folders/1qmfaodj9NjOE7wA5sPOif3yp99212C_i?usp=sharing
 
 
-[![View PDF](./docs/pdf-preview.png)](./LearnX_Detailed_Overview.pdf)
+# 📄 Complete Project Documentation
 
+<div align="center">
 
-## 📄 [View Complete Project Documentation →](./LearnX_Detailed_Overview.pdf)
+<div style="height:700px; overflow-y:auto; border:1px solid #d0d7de; border-radius:8px; padding:10px;">
+
+<img src="./docs/LearnX_Detailed_Overview-images-0.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-1.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-2.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-3.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-4.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-5.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-6.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-7.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-8.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-9.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-10.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-11.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-12.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-13.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-14.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-15.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-16.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-17.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-18.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-19.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-20.jpg" width="100%">
+<img src="./docs/LearnX_Detailed_Overview-images-21.jpg" width="100%">
+
+</div>
+
+</div>
+
+*📜 Scroll inside the box to read the complete documentation.*
 
 ## Folder Structure
 
