@@ -1,8 +1,13 @@
 # SE Project Directory Structure
 
 ## Project Overview
-AI assisted Eduaction Platform 
+A full-stack educational platform using Vue.js (frontend) and Flask (backend), integrating an AI chatbot TutorX which ensures that every student has access to a personalized tutor, available 24/7, improving doubt resolution, engagement, and learning outcomes.
 
+TutorX is an AI Chatbot integrated in a retrieval-augmented generation (RAG) pipeline using Sentence Transformers to convert lecture materials into vector embeddings stored as Knowledge Base in Vector Database LanceDB. Based on query intent, the system autonomously chooses between retrieving from LanceDB via semantic search or searching the web via DuckDuckGo; Has session memory for upto 25 conversations, and context-aware response generation via OpenRouter API (Google Gemini-2.5-Pro).
+
+The platform handles real-time student features including AI-assisted course content, feedback, coding submissions, instructor content creation, and admin management. Used PyTest for unit testing APIs, and GitHub with CI/CD for version control.  Deadline reminders using SMTP via redis and celery workers.
+
+Tech Stack: Flask, SQLite, jwt, Vue.js (CDN),  LanceDB, Sentence Transformers, phi library, OpenRouter API, Gemini-2.5-Pro, , GitHub (CI/CD), Postman, Celery, Redis, PyTest, JIRA.
 
 Demo Project Working Video Link: https://drive.google.com/drive/folders/1qmfaodj9NjOE7wA5sPOif3yp99212C_i?usp=sharing
 
