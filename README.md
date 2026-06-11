@@ -12,7 +12,8 @@ Tech Stack: Flask, SQLite, jwt, Vue.js (CDN),  LanceDB, Sentence Transformers, p
 Demo Project Working Video Link: https://drive.google.com/drive/folders/1qmfaodj9NjOE7wA5sPOif3yp99212C_i?usp=sharing
 
 
-[![Documentation](./docs/badge.svg)](./LearnX_Detailed_Overview.pdf)
+[![View PDF](./docs/pdf-preview.png)](./LearnX_Detailed_Overview.pdf)
+
 
 ## 📄 [View Complete Project Documentation →](./LearnX_Detailed_Overview.pdf)
 
